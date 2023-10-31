@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Wafilife">
+	<!-- -->
+	<test name="Test">
+		<classes>
+			<class name="com.it.bd.tests.LoginTest" />
+		</classes>
+	</test>
+	<test name="Test1">
+		<classes>
+			<class name="com.it.bd.tests.WriterTest" />
+		</classes>
+	</test>
+	<test name="Test2">
+		<classes>
+			<class name="com.it.bd.tests.BookTest" />
+		</classes>
+	</test>
+	<test name="Test3">
+		<classes>
+			<class name="com.it.bd.tests.OrderTest" />
+		</classes>
+	</test>		
+</suite>
